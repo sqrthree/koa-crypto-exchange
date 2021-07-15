@@ -2,7 +2,7 @@
   "name": "@sqrtthree/koa-crypto-exchange",
   "version": "0.1.0",
   "description": "A koa exchange middleware based on RSA.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "dev": "tsc --watch",
     "prebuild": "npm run lint",
