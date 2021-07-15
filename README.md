@@ -1,6 +1,6 @@
 # koa-crypto-exchange
 
-A koa exchange server based on RSA.
+A koa exchange middleware based on RSA.
 
 ---
 

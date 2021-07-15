@@ -1,7 +1,7 @@
 {
   "name": "@sqrtthree/koa-crypto-exchange",
   "version": "0.1.0",
-  "description": "A koa exchange server based on RSA.",
+  "description": "A koa exchange middleware based on RSA.",
   "main": "index.js",
   "scripts": {
     "dev": "tsc --watch",
