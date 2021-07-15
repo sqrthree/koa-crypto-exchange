@@ -6,7 +6,7 @@ const bodyParser = require('koa-bodyparser')
 const request = require('supertest')
 const test = require('ava')
 
-const { exchangeMiddleware } = require('../dist/index.js')
+const { exchangeMiddleware } = require('../dist/index')
 
 const publicKey = fs.readFileSync(
   path.resolve(__dirname, '../keys/testing_public_key.pem'),
